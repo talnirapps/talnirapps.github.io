@@ -21,9 +21,11 @@
 title: TechVenture Family Mobile Development, Global Exploration, and Life Balance
 email: talnirapps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to our extraordinary site, where we bring you a captivating blend of innovation, inspiration, and adventure. Here, you'll discover a treasure trove of content, showcasing our passion for technology, travel, and family life. Immerse yourself in our world as we share our experiences, insights, and stories that resonate with our core values and aspirations.
-baseurl: "talnirapps.com" # the subpath of your site, e.g. /blog
-url: "http://talnirapps.com" # the base hostname & protocol for your site, e.g. http://example.com
+  Welcome to our extraordinary site, where we bring you a captivating blend of innovation, inspiration, and adventure.
+  Here, you'll discover a treasure trove of content, showcasing our passion for technology, travel, and family life. 
+  Immerse yourself in our world as we share our experiences, insights, and stories that resonate with our core values and aspirations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: talnirapps
 github_username:  talnirapps
 
