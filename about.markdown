@@ -30,14 +30,10 @@ Throughout my cosmic escapades, I've amassed vast knowledge in mobile developmen
 
 ## Join My Adventure 🌌
 
-Stay tuned for interstellar insights into mobile development, software engineering, and life on Planet Canada. Feel free to [reach out](mailto:your-email@example.com) if you want to discuss technology, share your own experiences, or simply chat about the mysteries of the universe.
+Stay tuned for interstellar insights into mobile development, software engineering, and life on Planet Canada. Feel free to [reach out](mailto:talnirapps@gmails.com) if you want to discuss technology, share your own experiences, or simply chat about the mysteries of the universe.
 
 <div style="text-align:center;">
   <p>
     <strong>Let's explore the digital cosmos together!</strong>
-  </p>
-  <p>
-    <a href="https://twitter.com/your_twitter_handle" target="_blank" style="margin-right: 10px;">🐦 Twitter</a>
-    <a href="https://github.com/your_github_handle" target="_blank">🐙 GitHub</a>
   </p>
 </div>
