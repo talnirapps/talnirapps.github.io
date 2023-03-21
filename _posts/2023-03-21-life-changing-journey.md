@@ -1,7 +1,10 @@
+---
 layout: post
 title: "From Israel to Canada: A Life-Changing Journey"
 date: 2023-03-21
 categories: [Personal, Travel]
+---
+
 As I reflect on my journey, I can't help but feel grateful for the life-changing decision I made six years ago – moving from Israel to Canada. This unique experience has shaped me both personally and professionally, and I'm excited to share my story with you.
 
 Back in Israel, I had already established a successful career in software development, having worked at notable companies such as Motorola and Airspan Networks. The vibrant culture and innovative tech scene fueled my passion for software development, allowing me to thrive in a fast-paced environment. However, the decision to move to Canada opened up new doors and opportunities that enriched my life beyond measure. The warmth and diversity of the Canadian people, coupled with its fast-growing tech industry, has made the transition smoother than I could've ever imagined.
