@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kids Math Game Privacy Policy
-permalink: /kids-math-game-privacy-policy/
+permalink: /privacy-policy/kids-math-game-privacy-policy/
 ---
 
 # Kids Math Game Privacy Policy
