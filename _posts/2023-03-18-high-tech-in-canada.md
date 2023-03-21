@@ -1,7 +1,9 @@
 ---
-layout: post title: "High Tech Industry in Canada: A Pillar of the Economy" 
-date: 2023-03-21 
+layout: post 
+title: "High Tech Industry in Canada: A Pillar of the Economy" 
+date: 2023-03-18
 categories: tech canada economy
+tags: [Canada's high tech, Economic]
 ---
 
 # Introduction
