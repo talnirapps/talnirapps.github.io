@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+  padding: 0;
+
+  li {
+    position: relative;
+  }
+
+  ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    min-width: 200px;
+    border: 1px solid #ccc;
+    z-index: 1000;
+  }
+
+  li:hover > ul {
+    display: block;
+  }
+}
