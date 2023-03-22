@@ -24,4 +24,4 @@ If you're a fan of bold and spicy flavors, Northern Dumpling Kitchen is the plac
 
 Congee Queen is a popular Cantonese restaurant that serves up generous portions of comforting congee and other Chinese classics. Their extensive menu offers plenty of choices for everyone. Make sure to try the House Special Congee and the Crispy Noodles with Beef, which are both absolutely scrumptious!
 
-**Address:**
+**Address:** 5308 Hwy 7 unit 5-7, Markham, ON L3P 1B9
