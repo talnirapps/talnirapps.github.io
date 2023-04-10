@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring Has Sprung: Embracing the Joys of the Season in Ontario, Canada"
-date: 2023-04-15
+date: 2023-04-09
 categories: [Lifestyle, Nature]
 tags: [Spring, Ontario, Canada]
 ---

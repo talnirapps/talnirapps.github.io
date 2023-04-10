@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Sweet Family Adventure: Our Weekend Visit to Crawford Lake Maple Syrup"
-date: 2023-03-19
+date: 2023-04-09
 categories: [Travel, Family]
 tags: [Crawford Lake, Maple Syrup, Family Adventure]
 ---
