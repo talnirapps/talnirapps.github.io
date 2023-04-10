@@ -3,16 +3,16 @@ layout: post
 title: "Navigating Canada's Banking and Tax System as a New Immigrant: From Bank Accounts to Investments"
 date: 2021-02-02
 categories: [Finance, Immigration]
-tags: [Banking, Taxes, RRSP, TFSA, RESP, DCPP, CRA, RBC, Investing]
+tags: [Banking, Taxes, RRSP, TFSA, RESP, DCPP, CRA, TD, CIBC, RBC, Investing]
 ---
 
 # Navigating Canada's Banking and Tax System as a New Immigrant: From Bank Accounts to Investments
 
 As a fresh immigrant in Canada, you may find the country's banking and tax systems a bit overwhelming. However, with the right information and guidance, you can easily navigate these systems and make the most of your financial opportunities. In this post, we will discuss opening a bank account with RBC, understanding various savings and investment options, and filing your taxes with the Canada Revenue Agency (CRA).
 
-## Opening a Bank Account with RBC
+## Opening a Bank Account with CIBS, RBC or TD
 
-RBC (Royal Bank of Canada) is one of the largest banks in the country, offering a wide range of banking services. As a new immigrant, you can open a bank account with RBC and benefit from their newcomer package, which typically includes no monthly fees for a limited period, a credit card with no credit history required, and other perks.
+CIBS RBC (Royal Bank of Canada) and TD are the largest banks in the country, offering a wide range of banking services. As a new immigrant, you can open a bank account with them and benefit from their newcomer package, which typically includes no monthly fees for a limited period, a credit card with no credit history required, and other perks.
 
 To open an account, you can visit any RBC branch with your identification documents, such as your passport and landing papers. The bank representative will help you choose the right account type and guide you through the account opening process.
 
@@ -44,8 +44,8 @@ You can file your taxes online using various tax software options or seek the as
 
 ## Direct Investing, Cash Drive-Through, and Online Banking
 
-RBC offers a direct investing platform that allows you to manage your investments online. This platform gives you access to various investment options, including stocks, bonds, and mutual funds.
+CIBC, RBC or TD offers a direct investing platform that allows you to manage your investments online. This platform gives you access to various investment options, including stocks, bonds, and mutual funds.
 
-RBC also provides convenient banking services such as cash drive-through and online banking. You can visit any RBC branch for in-person assistance or conduct most of your banking transactions online, providing flexibility and convenience.
+CIBC, RBC and TD also provides convenient banking services such as cash drive-through and online banking. You can visit any RBC branch for in-person assistance or conduct most of your banking transactions online, providing flexibility and convenience.
 
-In conclusion, understanding Canada's banking and tax systems is crucial for new immigrants to make informed financial decisions. By opening a bank account with RBC, exploring various savings and investment options, and filing your taxes with the CRA,
+In conclusion, understanding Canada's banking and tax systems is crucial for new immigrants to make informed financial decisions. By opening a bank account with CIBC, or and TD, exploring various savings and investment options, and filing your taxes with the CRA,
