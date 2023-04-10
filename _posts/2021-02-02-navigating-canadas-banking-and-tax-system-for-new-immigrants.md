@@ -10,9 +10,9 @@ tags: [Banking, Taxes, RRSP, TFSA, RESP, DCPP, CRA, TD, CIBC, RBC, Investing]
 
 As a fresh immigrant in Canada, you may find the country's banking and tax systems a bit overwhelming. However, with the right information and guidance, you can easily navigate these systems and make the most of your financial opportunities. In this post, we will discuss opening a bank account with RBC, understanding various savings and investment options, and filing your taxes with the Canada Revenue Agency (CRA).
 
-## Opening a Bank Account with CIBS, RBC or TD
+## Opening a Bank Account with CIBC, RBC or TD
 
-CIBS RBC (Royal Bank of Canada) and TD are the largest banks in the country, offering a wide range of banking services. As a new immigrant, you can open a bank account with them and benefit from their newcomer package, which typically includes no monthly fees for a limited period, a credit card with no credit history required, and other perks.
+CIBC, RBC (Royal Bank of Canada) and TD are the largest banks in the country, offering a wide range of banking services. As a new immigrant, you can open a bank account with them and benefit from their newcomer package, which typically includes no monthly fees for a limited period, a credit card with no credit history required, and other perks.
 
 To open an account, you can visit any RBC branch with your identification documents, such as your passport and landing papers. The bank representative will help you choose the right account type and guide you through the account opening process.
 
