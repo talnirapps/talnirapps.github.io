@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kids Math Game Privacy Policy
+title: Round 42 Game Privacy Policy
 permalink: /privacy-policy/round-42-privacy-policy/
 ---
 
