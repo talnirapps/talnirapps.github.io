@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "My APPS"
     url: /my-apps/
-    children:
-      - title: "Kids Math Game Privacy Policy"
-        url: /privacy-policy/kids-math-game-privacy-policy/
-      - title: "Round 42 Privacy Policy"
-        url: /privacy-policy/round-42-privacy-policy/
+    # children:
+    #   - title: "Kids Math Game Privacy Policy"
+    #     url: /privacy-policy/kids-math-game-privacy-policy/
+    #   - title: "Round 42 Privacy Policy"
+    #     url: /privacy-policy/round-42-privacy-policy/

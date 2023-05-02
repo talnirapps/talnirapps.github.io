@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: My APPS
@@ -22,6 +23,7 @@ Math games can make learning fun for kids! Our educational game is designed to h
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
 </a>
 
+[Privacy Policy](https://talnirapps.com/privacy-policy/kids-math-game-privacy-policy/)
 
 # Kids Math Game
 
@@ -31,6 +33,7 @@ In Round 42, players control a laser cannon to fight off waves of alien invaders
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
 </a>
 
+[Privacy Policy](https://talnirapps.com/privacy-policy/round-42-privacy-policy/)
 
 # IDs Renewal Reminder Ontario
 
