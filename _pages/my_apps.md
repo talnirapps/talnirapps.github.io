@@ -23,7 +23,7 @@ Math games can make learning fun for kids! Our educational game is designed to h
 
 [Privacy Policy](https://talnirapps.com/privacy-policy/kids-math-game-privacy-policy/)
 
-# Kids Math Game
+# Round 42
 
 In Round 42, players control a laser cannon to fight off waves of alien invaders. With each eliminated alien, the game intensifies as their movement and music speed up. Utilize defense bunkers for protection while taking aim at the relentless foes. Keep an eye out for the elusive "mystery ship" that occasionally graces the top of the screen. As players complete waves, the challenge grows with aliens starting lower each time. Can you defend Earth in this addictive, fast-paced shooter?
 
