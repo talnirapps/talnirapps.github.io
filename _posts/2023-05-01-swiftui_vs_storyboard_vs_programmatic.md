@@ -2,7 +2,7 @@
 layout: post
 title: "SwiftUI vs. Storyboard vs. Programmatic UI: The Triple Threat Showdown in iOS App Development"
 date: 2023-05-01
-author: Your Name
+author: Tal Nir
 categories: [iOS, SwiftUI, Storyboard, Swift, Programmatic UI]
 ---
 
