@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Privacy Policy"
-    url: /privacy-policy/
+  - title: "My APPS"
+    url: /my-apps/
     children:
       - title: "Kids Math Game Privacy Policy"
         url: /privacy-policy/kids-math-game-privacy-policy/
