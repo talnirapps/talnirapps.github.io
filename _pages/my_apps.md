@@ -22,3 +22,31 @@ Math games can make learning fun for kids! Our educational game is designed to h
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
 </a>
 
+
+# Kids Math Game
+
+In Round 42, players control a laser cannon to fight off waves of alien invaders. With each eliminated alien, the game intensifies as their movement and music speed up. Utilize defense bunkers for protection while taking aim at the relentless foes. Keep an eye out for the elusive "mystery ship" that occasionally graces the top of the screen. As players complete waves, the challenge grows with aliens starting lower each time. Can you defend Earth in this addictive, fast-paced shooter?
+
+<a href='https://play.google.com/store/apps/details?id=com.talnirapps.round_42&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
+</a>
+
+
+# IDs Renewal Reminder Ontario
+
+Ontarians, did you ever forget to renew your license, or health card ? 
+Never again!
+Just set the expiration date and you will get a reminder to get it renewed!he challenge grows with aliens starting lower each time. Can you defend Earth in this addictive, fast-paced shooter?
+
+<a href='https://play.google.com/store/apps/details?id=com.talnirapps.ontario.renewal&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
+</a>
+
+# Canadrug
+
+Search information about Health Canada drug products
+
+<a href='https://play.google.com/store/apps/details?id=com.talnirapps.healthCanadaDrugProducts&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
+</a>
+
