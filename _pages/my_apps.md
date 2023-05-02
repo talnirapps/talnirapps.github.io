@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: My APPS
 permalink: /my-apps/
 ---
-
 
 # Canadian Citizenship Test Prep
 
