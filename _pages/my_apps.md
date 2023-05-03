@@ -37,7 +37,7 @@ In Round 42, players control a laser cannon to fight off waves of alien invaders
 
 Ontarians, did you ever forget to renew your license, or health card ? 
 Never again!
-Just set the expiration date and you will get a reminder to get it renewed!he challenge grows with aliens starting lower each time. Can you defend Earth in this addictive, fast-paced shooter?
+Just set the expiration date and you will get a reminder to get it renewed!
 
 <a href='https://play.google.com/store/apps/details?id=com.talnirapps.ontario.renewal&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
