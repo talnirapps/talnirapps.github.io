@@ -8,8 +8,8 @@ categories: [Flutter, Riverpod, OpenAI, ChatGPT]
 
 ## In this tutorial, we will create a chat app using Flutter, Riverpod, and OpenAI API. We will use the OpenAI API to generate responses based on user input, and Riverpod for state management. Here is the outline of the steps:
 
-1.  **Update `pubspec.yaml`**: Add dependencies for Flutter Hooks, Hooks Riverpod, and HTTP. These libraries are necessary for managing the state of the application, handling user input, and making HTTP requests to the OpenAI API.
-   
+**Update `pubspec.yaml`**: Add dependencies for Flutter Hooks, Hooks Riverpod, and HTTP. These libraries are necessary for managing the state of the application, handling user input, and making HTTP requests to the OpenAI API.
+
 ```yaml
 name: chat_ai  
 description: A new Flutter project.  
@@ -49,7 +49,8 @@ flutter:
 ```
 
 
-2.  **Create `main.dart`**: Set up the MaterialApp and run the application. This file initializes the app, sets the theme, and specifies the home screen (in this case, ChatScreen).
+**Create `main.dart`**: Set up the MaterialApp and run the application. This file initializes the app, sets the theme, and specifies the home screen (in this case, ChatScreen).
+
 ```dart
 import 'package:chat_ai/src/view/chat_screen.dart';  
 import 'package:flutter/material.dart';  
@@ -73,7 +74,8 @@ class MyApp extends StatelessWidget {
 }
 ``` 
 
-3.  **Create `api_service.dart`**: Handle API requests to the OpenAI API. This file defines the ApiService class responsible for making HTTP requests to the OpenAI API. The `fetchResponse` method sends a user message to the API and retrieves a generated response.
+**Create `api_service.dart`**: Handle API requests to the OpenAI API. This file defines the ApiService class responsible for making HTTP requests to the OpenAI API. The `fetchResponse` method sends a user message to the API and retrieves a generated response.
+
 ```dart
 import 'dart:convert';  
 import 'package:http/http.dart' as http;  
@@ -110,7 +112,7 @@ class ApiService {
 }
 ```
 
-4.  **Create `message_provider.dart`**: Define the API service provider. This file uses Riverpod to create a provider for the ApiService. The provider allows us to easily access the ApiService instance throughout the app.
+**Create `message_provider.dart`**: Define the API service provider. This file uses Riverpod to create a provider for the ApiService. The provider allows us to easily access the ApiService instance throughout the app.
 
 ```dart
 import 'package:hooks_riverpod/hooks_riverpod.dart';  
@@ -121,10 +123,11 @@ const apiKey = 'your_openai_api_key';
 final apiServiceProvider = Provider<ApiService>((ref) => ApiService(apiKey));
 ```
 
-5.  **Create `chat_screen.dart`**: Build the main screen of the chat app.
+**Create `chat_screen.dart`**: Build the main screen of the chat app.
     
     -   Set up the UI components: Create a TextField for user input and a ListView to display messages. The ListView.builder is used to generate message bubbles for both the user and the AI.
     -   Implement the sendMessage function: This function is triggered when the user submits a message. It sends the message to the OpenAI API using the `apiService.fetchResponse` method and appends the response to the messages list. The UI is updated accordingly to show both the user's message and the AI's response.
+
 ```dart
 import 'package:flutter/material.dart';  
 import 'package:flutter_hooks/flutter_hooks.dart';  
@@ -253,7 +256,7 @@ class ChatScreen extends HookConsumerWidget {
 }
 ```
 
-6.  **background image `assets/images/background.png`**
+**background image `assets/images/background.png`**
  To find a suitable background image for your chat app, you can search for royalty-free images on websites like Unsplash, Pexels, or Pixabay. These websites offer a wide variety of high-quality images that can be used for free.
 
 For example, you can use this image from Unsplash as a chat background:
