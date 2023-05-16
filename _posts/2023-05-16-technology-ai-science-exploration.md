@@ -6,6 +6,22 @@ categories: [Technology, Science]
 tags: [AI, Machine Learning, Robotics, Cybersecurity, IoT, Space Exploration, Climate Change, Genetic Engineering, Quantum Computing]
 ---
 
+## Software
+
+### Creating a Comprehensive Software Design Document
+
+- help me create a comprehensive software design document. The software title is ___, it's meant to provide ___ functionality, the key design considerations are ___, the assumptions and dependencies include ___, the constraints we're working with are ___, the design goals and guidelines are ___, the development method we're following is ___, the architectural strategies involve ___, the system architecture is based on ___, the design policies and tactics include ___, and the key terms and concepts used in this document are ___
+
+
+- assist me in creating a software design document focusing on system architecture. The software is titled ___, it's intended to perform ___ functions, our main design considerations involve ___, the assumptions and dependencies are ___, we're constrained by ___, we're aiming to achieve these goals and follow these guidelines ___, we're employing this development method ___, our architectural strategies are ___, the system architecture will be ___-based, and we have these specific design policies and tactics ___."
+
+
+- help me craft an in-depth software design document. The software's title is ___, its primary function is ___, the key design considerations are ___, the assumptions and dependencies are ___, we're working within these constraints ___, our design goals and guidelines are ___, the chosen development method is ___, the architectural strategies are ___, we're dividing the system architecture into these subsystems ___, and these are the design policies and tactics ___.
+
+ - I need to create a software design document for a collaborative project. The software is named ___, its main functionality is ___, our design considerations include ___, we're making these assumptions and have these dependencies ___, we're limited by these constraints ___, our goals and guidelines for design are ___, we're using this development method ___, our architectural strategies include ___, our system architecture is based around these components ___, and we have these design policies and tactics ___.
+
+- please assist in building a detailed software design document. The software's title is ___, it's designed to perform ___ functions, the major design considerations are ___, the assumptions and dependencies include ___, the constraints we're facing are ___, our design goals and guidelines are ___, we've chosen this development method ___, the architectural strategies we're using are ___, our system architecture is organized around these subsystems ___, and our design policies and tactics are ___.
+
 ## Writing
 
 ### LinkedIn post
@@ -27,8 +43,6 @@ tags: [AI, Machine Learning, Robotics, Cybersecurity, IoT, Space Exploration, Cl
 - I need your help in designing a practice plan for a U8 soccer team focusing on passing and receiving. Please ensure the activities are appropriate for this age group and that they include an arrival activity, a warm-up, a first activity to introduce passing and receiving techniques, a second activity to apply these techniques under pressure, and a cooldown to end the session.
 
 ### Basketball
-
-Sure, here are the prompts rewritten in a way that can be used to instruct ChatGPT:
 
 #### Plan Your Basketball Practice Session
 -could you help me plan a basketball practice session? The age group of the players is ___, the practice session will last for ___ minutes/hours, the key skill I want to focus on is ___, I have ___ players available, we have access to a ___ (full/half) court, and the available equipment includes ___
