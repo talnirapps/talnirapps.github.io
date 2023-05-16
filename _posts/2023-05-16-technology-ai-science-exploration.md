@@ -31,19 +31,19 @@ tags: [AI, Machine Learning, Robotics, Cybersecurity, IoT, Space Exploration, Cl
 Sure, here are the prompts rewritten in a way that can be used to instruct ChatGPT:
 
 #### Plan Your Basketball Practice Session
--ChatGPT, could you help me plan a basketball practice session? The age group of the players is ___, the practice session will last for ___ minutes/hours, the key skill I want to focus on is ___, I have ___ players available, we have access to a ___ (full/half) court, and the available equipment includes ___
+-could you help me plan a basketball practice session? The age group of the players is ___, the practice session will last for ___ minutes/hours, the key skill I want to focus on is ___, I have ___ players available, we have access to a ___ (full/half) court, and the available equipment includes ___
 
 #### Basketball Practice Plan for Skill Development
--ChatGPT, could you assist me in developing a basketball practice plan aimed at skill development? We're working with players in the ___ age group, our practice session will last ___ minutes/hours, we want to enhance their ___ skills, we plan to implement ___ team strategies, we want to address these player weaknesses ___, and we have ___ total players.
+-could you assist me in developing a basketball practice plan aimed at skill development? We're working with players in the ___ age group, our practice session will last ___ minutes/hours, we want to enhance their ___ skills, we plan to implement ___ team strategies, we want to address these player weaknesses ___, and we have ___ total players.
 
 #### Basketball Drills and Strategies Practice Plan
--ChatGPT, I need to create a basketball practice plan that incorporates drills and strategies. The players are in the ___ age group, our practice session will be ___ minutes/hours long, we're focusing on ___ skills, we plan to incorporate ___ team strategies, we want to simulate these game-like situations ___, and we have ___ total players.
+-I need to create a basketball practice plan that incorporates drills and strategies. The players are in the ___ age group, our practice session will be ___ minutes/hours long, we're focusing on ___ skills, we plan to incorporate ___ team strategies, we want to simulate these game-like situations ___, and we have ___ total players.
 
 #### Creating a Comprehensive Basketball Practice Plan
--ChatGPT, I'd like to create a comprehensive basketball practice plan. The players are in the ___ age group, we have ___ minutes/hours for the practice session, our key areas of focus are ___, we want to include these techniques or drills ___, we want to address these player strengths or weaknesses ___, and we have ___ players available.
+-I'd like to create a comprehensive basketball practice plan. The players are in the ___ age group, we have ___ minutes/hours for the practice session, our key areas of focus are ___, we want to include these techniques or drills ___, we want to address these player strengths or weaknesses ___, and we have ___ players available.
 
 #### Basketball Training Session Plan
--ChatGPT, please help me put together a basketball training session plan. The players are in the ___ age group, the training session will last ___ minutes/hours, we're looking to enhance ___ skills, we plan to teach ___ team tactics, we want to recreate these game-like scenarios ___, and we have ___ total players.
+-please help me put together a basketball training session plan. The players are in the ___ age group, the training session will last ___ minutes/hours, we're looking to enhance ___ skills, we plan to teach ___ team tactics, we want to recreate these game-like scenarios ___, and we have ___ total players.
 
 ## Technology and AI
 
