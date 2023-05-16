@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navigating Canada's Banking and Tax System as a New Immigrant: From Bank Accounts to Investments"
+title: "Navigating Canada's Banking and Tax System: From Bank Accounts to Investments"
 date: 2021-02-02
 categories: [Finance, Immigration]
 tags: [Banking, Taxes, RRSP, TFSA, RESP, DCPP, CRA, TD, CIBC, RBC, Investing]
