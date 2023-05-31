@@ -4,12 +4,6 @@ title: AI Wizdom Share Terms of Use
 permalink: /privacy-policy/ai-wizdom-share-tos/
 ---
 
----
-layout: page
-title: Terms of Use
-permalink: /terms-of-use/
----
-
 # AI Wisdom Share Terms of Use
 
 Last updated: May 30, 2023
