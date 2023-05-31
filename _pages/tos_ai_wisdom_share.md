@@ -50,10 +50,11 @@ If any of these Terms and Conditions should be determined to be invalid, illegal
 
 ## 10. Governing Law
 
-These Terms and Conditions shall be governed by and construed in accordance with the law of [your location] and you hereby submit to the exclusive jurisdiction of the [your location] courts.
+These Terms and Conditions shall be governed by and construed in accordance with the law of Canada and you hereby submit to the exclusive jurisdiction of the Canada courts.
 
-For any further information please email [your support email]
+For any further information please email talnirapps@gmail.com
 
 ---
 
-For any questions or concerns regarding these Terms of Use, please contact us at support@talnirapps.com.
+For any questions or concerns regarding these Terms of Use, please contact us at talnirapps@gmail.com
+.
