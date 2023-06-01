@@ -11,8 +11,8 @@ permalink: /privacy-policy/ai-wizdom-share-account-deletion-request/
 ## How to Request Account Deletion
 
 1. Open the AI Wisdom Share app on your device.
-2. Navigate to 'Settings' and select 'Support'.
-3. In the 'Support' section, select 'Account Deletion Request'.
+2. Navigate to 'Settings'.
+3. Select 'Account Deletion Request'.
 4. Fill out the form, including your account's email address and the reason for your request (optional).
 5. Tap 'Submit' to send your account deletion request.
 
