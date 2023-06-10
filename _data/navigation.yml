@@ -1,5 +1,5 @@
 main:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+    # url: /about/
   - title: "My APPS"
     url: /my-apps/
