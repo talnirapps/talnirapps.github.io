@@ -1,0 +1,8 @@
+---
+layout: page
+permalink: /app-ads.txt
+---
+
+# This is the app-ads.txt file for talnirapps.com
+# We have authorized all ad sources to sell our ad inventory.
+google.com, pub-4738217887561380, DIRECT, f08c47fec0942fa0
