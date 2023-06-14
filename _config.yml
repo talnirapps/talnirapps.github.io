@@ -40,7 +40,7 @@ custom_scss: "minima-custom.scss"
 
 include:
   - _pages
-
+  - app-ads.txt
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
