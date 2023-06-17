@@ -4,6 +4,15 @@ title: My APPS
 permalink: /my-apps/
 ---
 
+# AI Wisdom Share
+
+Welcome to AI Wisdom Share, your extraordinary fusion of AI-powered chat and comprehensive fitness planning. Immerse yourself in a wealth of knowledge across diverse topics, engage with AI versions of historical figures, or design professional-grade fitness paths for yourself or your students in dance or sports. This application is tailored not just to individual enthusiasts but is a vital tool for professional trainers and coaches too.
+
+<a href='https://play.google.com/store/apps/details?id=com.talnirapps.openaitopicchat&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style='width: 150px; border-radius: 10px;'/>
+</a>
+
+
 # Canadian Citizenship Test Prep
 
 Ace your Canadian citizenship test with this comprehensive app. Packed with a wealth of questions and answers, you'll have everything you need to prepare. To make studying even easier, you can choose your province or territory and receive only the questions that pertain to your specific region.
