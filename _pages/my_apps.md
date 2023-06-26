@@ -1,4 +1,3 @@
-Welcome file
 ---
 layout: page
 title: My APPS
