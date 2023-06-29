@@ -16,6 +16,22 @@ Welcome to AI Wisdom Share, your extraordinary fusion of AI-powered chat and com
   <img alt='Download on the App Store' src='https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1634688000&h=31d240d22c97a1fc66a6cb73c4ae7d84' style='width: 150px; border-radius: 50px;'/>
 </a>
 
+# RadioHub Canada
+
+Welcome to RadioHub Canada, the ultimate radio streaming application that brings the world closer to you. With a vast collection of radio stations from all over the globe, you're never too far away from the sounds that make home, feel like home.
+Our easy-to-use interface allows you to browse and select radio stations based on country, ensuring a simple and straightforward user experience. We provide the highest quality audio streams, so you can enjoy uninterrupted music, news, and more.
+RadioHub Canada’s unique features:
+Explore: Discover radio stations from different countries. Currently, we support stations from Canada and the USA, and we're always expanding our database.
+Stream: Enjoy high-quality audio streams of your favorite stations.
+Search: Easily navigate through our extensive list of stations with our streamlined search function.
+Play Controls: Our intuitive play controls make it easy to stop, start, and enjoy your chosen radio station.
+We constantly update and improve our app to ensure a seamless and enjoyable listening experience. With RadioHub Canada, the world's radio stations are just a tap away.
+Download now and start your global radio journey!
+
+<a href='https://apps.apple.com/us/app/radiohub-canada/id6450751679?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;'>
+  <img alt='Download on the App Store' src='https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1634688000&h=31d240d22c97a1fc66a6cb73c4ae7d84' style='width: 150px; border-radius: 50px;'/>
+</a>
+
 
 # Canadian Citizenship Test Prep
 
